@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm R3V1D3, a full-stack developer/Penetration Tester 👨‍💻 </div>  
+### <div align="center">I'm V3R1D3, a full-stack developer/Penetration Tester 👨‍💻 </div>  
   
 
 - 🔭 I’m currently working on SaaSi  
