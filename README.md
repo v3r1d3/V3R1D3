@@ -119,13 +119,6 @@
 
 <br/>  
 
-<div align="center">
-            <a href="https://paypal.me/r3v1d3" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                    align="center"
-                />
-            </a></div>
 <br />
 
 ----
